@@ -2,7 +2,7 @@ import bs4
 import parser
 
 #main variables
-TOKEN = "555555555:AAAAaaaAaaA1a1aA1AAAAAAaaAAaa4AA"
+TOKEN = "890388110:AAFAg268gKHHW_wYsalMWTrR6DLVKmKqC3E"
 bot = telebot.TeleBot(TOKEN)
 
 #handlers
